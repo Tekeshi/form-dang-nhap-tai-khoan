@@ -1,0 +1,560 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2C1F69C81D0080FD003443FC /* 581e683ae10e5630c544beec6f94eb68.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1F69C11D0080FD003443FC /* 581e683ae10e5630c544beec6f94eb68.jpg */; };
+		2C1F69C91D0080FD003443FC /* depositphotos_22966928-Cartoon-cute-monsters.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1F69C21D0080FD003443FC /* depositphotos_22966928-Cartoon-cute-monsters.jpg */; };
+		2C1F69CA1D0080FD003443FC /* Little Monster Clipart_Purple Monster by Little Apples Design.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C1F69C31D0080FD003443FC /* Little Monster Clipart_Purple Monster by Little Apples Design.png */; };
+		2C1F69CB1D0080FD003443FC /* monster-inc-clipart-clipmonsters20.gif in Resources */ = {isa = PBXBuildFile; fileRef = 2C1F69C41D0080FD003443FC /* monster-inc-clipart-clipmonsters20.gif */; };
+		2C1F69CC1D0080FD003443FC /* Pink_Fang_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C1F69C51D0080FD003443FC /* Pink_Fang_1.png */; };
+		2C1F69CD1D0080FD003443FC /* pink_monster.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C1F69C61D0080FD003443FC /* pink_monster.png */; };
+		2C1F69CE1D0080FD003443FC /* pirate-monster-vector-6657954.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1F69C71D0080FD003443FC /* pirate-monster-vector-6657954.jpg */; };
+		2C61A2B91D004B9000B2FCD4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C61A2B81D004B9000B2FCD4 /* main.m */; };
+		2C61A2BC1D004B9000B2FCD4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C61A2BB1D004B9000B2FCD4 /* AppDelegate.m */; };
+		2C61A2BF1D004B9000B2FCD4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C61A2BE1D004B9000B2FCD4 /* ViewController.m */; };
+		2C61A2C21D004B9000B2FCD4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C61A2C01D004B9000B2FCD4 /* Main.storyboard */; };
+		2C61A2C41D004B9000B2FCD4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C61A2C31D004B9000B2FCD4 /* Assets.xcassets */; };
+		2C61A2C71D004B9000B2FCD4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C61A2C51D004B9000B2FCD4 /* LaunchScreen.storyboard */; };
+		2C61A2D21D004B9000B2FCD4 /* toan_tre_emTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C61A2D11D004B9000B2FCD4 /* toan_tre_emTests.m */; };
+		2C61A2DD1D004B9000B2FCD4 /* toan_tre_emUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C61A2DC1D004B9000B2FCD4 /* toan_tre_emUITests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		2C61A2CE1D004B9000B2FCD4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2C61A2AC1D004B9000B2FCD4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2C61A2B31D004B9000B2FCD4;
+			remoteInfo = "toan tre em";
+		};
+		2C61A2D91D004B9000B2FCD4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2C61A2AC1D004B9000B2FCD4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2C61A2B31D004B9000B2FCD4;
+			remoteInfo = "toan tre em";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		2C1F69C11D0080FD003443FC /* 581e683ae10e5630c544beec6f94eb68.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 581e683ae10e5630c544beec6f94eb68.jpg; sourceTree = "<group>"; };
+		2C1F69C21D0080FD003443FC /* depositphotos_22966928-Cartoon-cute-monsters.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "depositphotos_22966928-Cartoon-cute-monsters.jpg"; sourceTree = "<group>"; };
+		2C1F69C31D0080FD003443FC /* Little Monster Clipart_Purple Monster by Little Apples Design.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Little Monster Clipart_Purple Monster by Little Apples Design.png"; sourceTree = "<group>"; };
+		2C1F69C41D0080FD003443FC /* monster-inc-clipart-clipmonsters20.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "monster-inc-clipart-clipmonsters20.gif"; sourceTree = "<group>"; };
+		2C1F69C51D0080FD003443FC /* Pink_Fang_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Pink_Fang_1.png; sourceTree = "<group>"; };
+		2C1F69C61D0080FD003443FC /* pink_monster.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pink_monster.png; sourceTree = "<group>"; };
+		2C1F69C71D0080FD003443FC /* pirate-monster-vector-6657954.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "pirate-monster-vector-6657954.jpg"; sourceTree = "<group>"; };
+		2C61A2B41D004B9000B2FCD4 /* toan tre em.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "toan tre em.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C61A2B81D004B9000B2FCD4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2C61A2BA1D004B9000B2FCD4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		2C61A2BB1D004B9000B2FCD4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		2C61A2BD1D004B9000B2FCD4 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		2C61A2BE1D004B9000B2FCD4 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		2C61A2C11D004B9000B2FCD4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		2C61A2C31D004B9000B2FCD4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		2C61A2C61D004B9000B2FCD4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		2C61A2C81D004B9000B2FCD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C61A2CD1D004B9000B2FCD4 /* toan tre emTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "toan tre emTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C61A2D11D004B9000B2FCD4 /* toan_tre_emTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = toan_tre_emTests.m; sourceTree = "<group>"; };
+		2C61A2D31D004B9000B2FCD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C61A2D81D004B9000B2FCD4 /* toan tre emUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "toan tre emUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C61A2DC1D004B9000B2FCD4 /* toan_tre_emUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = toan_tre_emUITests.m; sourceTree = "<group>"; };
+		2C61A2DE1D004B9000B2FCD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2C61A2B11D004B9000B2FCD4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2C61A2CA1D004B9000B2FCD4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2C61A2D51D004B9000B2FCD4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2C1F69C01D00808E003443FC /* pic  */ = {
+			isa = PBXGroup;
+			children = (
+				2C1F69C11D0080FD003443FC /* 581e683ae10e5630c544beec6f94eb68.jpg */,
+				2C1F69C21D0080FD003443FC /* depositphotos_22966928-Cartoon-cute-monsters.jpg */,
+				2C1F69C31D0080FD003443FC /* Little Monster Clipart_Purple Monster by Little Apples Design.png */,
+				2C1F69C41D0080FD003443FC /* monster-inc-clipart-clipmonsters20.gif */,
+				2C1F69C51D0080FD003443FC /* Pink_Fang_1.png */,
+				2C1F69C61D0080FD003443FC /* pink_monster.png */,
+				2C1F69C71D0080FD003443FC /* pirate-monster-vector-6657954.jpg */,
+			);
+			name = "pic ";
+			sourceTree = "<group>";
+		};
+		2C61A2AB1D004B9000B2FCD4 = {
+			isa = PBXGroup;
+			children = (
+				2C61A2B61D004B9000B2FCD4 /* toan tre em */,
+				2C61A2D01D004B9000B2FCD4 /* toan tre emTests */,
+				2C61A2DB1D004B9000B2FCD4 /* toan tre emUITests */,
+				2C61A2B51D004B9000B2FCD4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2C61A2B51D004B9000B2FCD4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2C61A2B41D004B9000B2FCD4 /* toan tre em.app */,
+				2C61A2CD1D004B9000B2FCD4 /* toan tre emTests.xctest */,
+				2C61A2D81D004B9000B2FCD4 /* toan tre emUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2C61A2B61D004B9000B2FCD4 /* toan tre em */ = {
+			isa = PBXGroup;
+			children = (
+				2C61A2BA1D004B9000B2FCD4 /* AppDelegate.h */,
+				2C61A2BB1D004B9000B2FCD4 /* AppDelegate.m */,
+				2C61A2BD1D004B9000B2FCD4 /* ViewController.h */,
+				2C61A2BE1D004B9000B2FCD4 /* ViewController.m */,
+				2C61A2C01D004B9000B2FCD4 /* Main.storyboard */,
+				2C1F69C01D00808E003443FC /* pic  */,
+				2C61A2C31D004B9000B2FCD4 /* Assets.xcassets */,
+				2C61A2C51D004B9000B2FCD4 /* LaunchScreen.storyboard */,
+				2C61A2C81D004B9000B2FCD4 /* Info.plist */,
+				2C61A2B71D004B9000B2FCD4 /* Supporting Files */,
+			);
+			path = "toan tre em";
+			sourceTree = "<group>";
+		};
+		2C61A2B71D004B9000B2FCD4 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				2C61A2B81D004B9000B2FCD4 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2C61A2D01D004B9000B2FCD4 /* toan tre emTests */ = {
+			isa = PBXGroup;
+			children = (
+				2C61A2D11D004B9000B2FCD4 /* toan_tre_emTests.m */,
+				2C61A2D31D004B9000B2FCD4 /* Info.plist */,
+			);
+			path = "toan tre emTests";
+			sourceTree = "<group>";
+		};
+		2C61A2DB1D004B9000B2FCD4 /* toan tre emUITests */ = {
+			isa = PBXGroup;
+			children = (
+				2C61A2DC1D004B9000B2FCD4 /* toan_tre_emUITests.m */,
+				2C61A2DE1D004B9000B2FCD4 /* Info.plist */,
+			);
+			path = "toan tre emUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2C61A2B31D004B9000B2FCD4 /* toan tre em */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2C61A2E11D004B9000B2FCD4 /* Build configuration list for PBXNativeTarget "toan tre em" */;
+			buildPhases = (
+				2C61A2B01D004B9000B2FCD4 /* Sources */,
+				2C61A2B11D004B9000B2FCD4 /* Frameworks */,
+				2C61A2B21D004B9000B2FCD4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "toan tre em";
+			productName = "toan tre em";
+			productReference = 2C61A2B41D004B9000B2FCD4 /* toan tre em.app */;
+			productType = "com.apple.product-type.application";
+		};
+		2C61A2CC1D004B9000B2FCD4 /* toan tre emTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2C61A2E41D004B9000B2FCD4 /* Build configuration list for PBXNativeTarget "toan tre emTests" */;
+			buildPhases = (
+				2C61A2C91D004B9000B2FCD4 /* Sources */,
+				2C61A2CA1D004B9000B2FCD4 /* Frameworks */,
+				2C61A2CB1D004B9000B2FCD4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2C61A2CF1D004B9000B2FCD4 /* PBXTargetDependency */,
+			);
+			name = "toan tre emTests";
+			productName = "toan tre emTests";
+			productReference = 2C61A2CD1D004B9000B2FCD4 /* toan tre emTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		2C61A2D71D004B9000B2FCD4 /* toan tre emUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2C61A2E71D004B9000B2FCD4 /* Build configuration list for PBXNativeTarget "toan tre emUITests" */;
+			buildPhases = (
+				2C61A2D41D004B9000B2FCD4 /* Sources */,
+				2C61A2D51D004B9000B2FCD4 /* Frameworks */,
+				2C61A2D61D004B9000B2FCD4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2C61A2DA1D004B9000B2FCD4 /* PBXTargetDependency */,
+			);
+			name = "toan tre emUITests";
+			productName = "toan tre emUITests";
+			productReference = 2C61A2D81D004B9000B2FCD4 /* toan tre emUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2C61A2AC1D004B9000B2FCD4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = TakeshiNguyen;
+				TargetAttributes = {
+					2C61A2B31D004B9000B2FCD4 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+					2C61A2CC1D004B9000B2FCD4 = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = 2C61A2B31D004B9000B2FCD4;
+					};
+					2C61A2D71D004B9000B2FCD4 = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = 2C61A2B31D004B9000B2FCD4;
+					};
+				};
+			};
+			buildConfigurationList = 2C61A2AF1D004B9000B2FCD4 /* Build configuration list for PBXProject "toan tre em" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2C61A2AB1D004B9000B2FCD4;
+			productRefGroup = 2C61A2B51D004B9000B2FCD4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2C61A2B31D004B9000B2FCD4 /* toan tre em */,
+				2C61A2CC1D004B9000B2FCD4 /* toan tre emTests */,
+				2C61A2D71D004B9000B2FCD4 /* toan tre emUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2C61A2B21D004B9000B2FCD4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C1F69CA1D0080FD003443FC /* Little Monster Clipart_Purple Monster by Little Apples Design.png in Resources */,
+				2C61A2C71D004B9000B2FCD4 /* LaunchScreen.storyboard in Resources */,
+				2C61A2C41D004B9000B2FCD4 /* Assets.xcassets in Resources */,
+				2C1F69C81D0080FD003443FC /* 581e683ae10e5630c544beec6f94eb68.jpg in Resources */,
+				2C1F69CB1D0080FD003443FC /* monster-inc-clipart-clipmonsters20.gif in Resources */,
+				2C1F69CE1D0080FD003443FC /* pirate-monster-vector-6657954.jpg in Resources */,
+				2C61A2C21D004B9000B2FCD4 /* Main.storyboard in Resources */,
+				2C1F69CD1D0080FD003443FC /* pink_monster.png in Resources */,
+				2C1F69C91D0080FD003443FC /* depositphotos_22966928-Cartoon-cute-monsters.jpg in Resources */,
+				2C1F69CC1D0080FD003443FC /* Pink_Fang_1.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2C61A2CB1D004B9000B2FCD4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2C61A2D61D004B9000B2FCD4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2C61A2B01D004B9000B2FCD4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C61A2BF1D004B9000B2FCD4 /* ViewController.m in Sources */,
+				2C61A2BC1D004B9000B2FCD4 /* AppDelegate.m in Sources */,
+				2C61A2B91D004B9000B2FCD4 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2C61A2C91D004B9000B2FCD4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C61A2D21D004B9000B2FCD4 /* toan_tre_emTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2C61A2D41D004B9000B2FCD4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C61A2DD1D004B9000B2FCD4 /* toan_tre_emUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		2C61A2CF1D004B9000B2FCD4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2C61A2B31D004B9000B2FCD4 /* toan tre em */;
+			targetProxy = 2C61A2CE1D004B9000B2FCD4 /* PBXContainerItemProxy */;
+		};
+		2C61A2DA1D004B9000B2FCD4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2C61A2B31D004B9000B2FCD4 /* toan tre em */;
+			targetProxy = 2C61A2D91D004B9000B2FCD4 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		2C61A2C01D004B9000B2FCD4 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2C61A2C11D004B9000B2FCD4 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		2C61A2C51D004B9000B2FCD4 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2C61A2C61D004B9000B2FCD4 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2C61A2DF1D004B9000B2FCD4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		2C61A2E01D004B9000B2FCD4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2C61A2E21D004B9000B2FCD4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "toan tre em/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "TakeshiNguyen.toan-tre-em";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2C61A2E31D004B9000B2FCD4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "toan tre em/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "TakeshiNguyen.toan-tre-em";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2C61A2E51D004B9000B2FCD4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "toan tre emTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "TakeshiNguyen.toan-tre-emTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/toan tre em.app/toan tre em";
+			};
+			name = Debug;
+		};
+		2C61A2E61D004B9000B2FCD4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "toan tre emTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "TakeshiNguyen.toan-tre-emTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/toan tre em.app/toan tre em";
+			};
+			name = Release;
+		};
+		2C61A2E81D004B9000B2FCD4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "toan tre emUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "TakeshiNguyen.toan-tre-emUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "toan tre em";
+			};
+			name = Debug;
+		};
+		2C61A2E91D004B9000B2FCD4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "toan tre emUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "TakeshiNguyen.toan-tre-emUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "toan tre em";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2C61A2AF1D004B9000B2FCD4 /* Build configuration list for PBXProject "toan tre em" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2C61A2DF1D004B9000B2FCD4 /* Debug */,
+				2C61A2E01D004B9000B2FCD4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2C61A2E11D004B9000B2FCD4 /* Build configuration list for PBXNativeTarget "toan tre em" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2C61A2E21D004B9000B2FCD4 /* Debug */,
+				2C61A2E31D004B9000B2FCD4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2C61A2E41D004B9000B2FCD4 /* Build configuration list for PBXNativeTarget "toan tre emTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2C61A2E51D004B9000B2FCD4 /* Debug */,
+				2C61A2E61D004B9000B2FCD4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2C61A2E71D004B9000B2FCD4 /* Build configuration list for PBXNativeTarget "toan tre emUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2C61A2E81D004B9000B2FCD4 /* Debug */,
+				2C61A2E91D004B9000B2FCD4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2C61A2AC1D004B9000B2FCD4 /* Project object */;
+}
